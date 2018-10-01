@@ -141,6 +141,7 @@ input {
     position: relative;
     color: white;
     width: 275px;
+    text-decoration: none;
 }
 
 .centered {
